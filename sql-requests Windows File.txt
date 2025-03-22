@@ -1,0 +1,23 @@
+POST /login HTTP/2
+Host: 3d9b79a60675af06111aee1dc976e04a.ctf.hacker101.com
+Cookie: _gid=GA1.2.1044442148.1742609712; _ga_K45575FWB8=GS1.1.1742615116.2.0.1742615116.60.0.0; _ga=GA1.1.1587637052.1742609712; _ga_W62NXF3JMB=GS1.1.1742665743.2.1.1742667274.0.0.0
+Content-Length: 29
+Cache-Control: max-age=0
+Sec-Ch-Ua: "Not:A-Brand";v="24", "Chromium";v="134"
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: "Windows"
+Accept-Language: en-US,en;q=0.9
+Origin: https://3d9b79a60675af06111aee1dc976e04a.ctf.hacker101.com
+Content-Type: application/x-www-form-urlencoded
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: https://3d9b79a60675af06111aee1dc976e04a.ctf.hacker101.com/login
+Accept-Encoding: gzip, deflate, br
+Priority: u=0, i
+
+username=admin&password=adminz
